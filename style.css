@@ -1,0 +1,44 @@
+.center-image{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.long{
+    height:100%;
+    width:100%;
+    
+}
+.drop-text{
+    display:flex;
+    align-items:flex-end;
+}
+
+
+
+
+.black-box{
+    background-color:black;
+    color:white;
+    
+}
+
+.orange-text{
+    color:#f09340;
+}
+
+.italic-text{
+  font-style: italic;  
+}
+.green{
+    background-color: #32cd32;
+    border-color:#32cd32;
+}
+
+.card{
+    border:none;
+}
+
+.review{
+    background-color:black;
+
+}
